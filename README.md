@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:38BDF8&height=130&section=header"/>
 
 # Hi, I'm Muskan Jha
 
 ### Java Full Stack Developer | AI/ML Enthusiast | Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;NLP+%7C+React+%7C+Spring+Boot+%7C+Python;Turning+Ideas+Into+Real+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+%7C+Python+%7C+React+%7C+SQL;Turning+Ideas+Into+Real+Projects"/>
 
 <br>
 
@@ -16,7 +16,6 @@
 
 <br><br>
 
-<p>
 <a href="https://github.com/paranoid-us">
 <img src="https://img.shields.io/badge/GITHUB-paranoid--us-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -29,11 +28,10 @@
 <a href="#">
 <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
 
-<br>
+<br><br>
 
-<img src="./Assets/muskan.gif" width="85%" alt="Muskan Superhero Developer GIF"/>
+<img src="./Assets/muskan.gif" width="95%" alt="Muskan Superhero Developer Banner"/>
 
 </div>
 
@@ -43,20 +41,21 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 * I am a **Java Full Stack Developer Intern at Mphasis**.
-* I build backend-focused systems with **Java, Spring Boot, Python, SQL, React, Docker, Git, and GitHub**.
-* I work on **AI/ML, NLP, Machine Learning, Data Analytics, and Web Development**.
+* I build backend-focused systems using **Java, Spring Boot, Python, SQL, React, Docker, Git, and GitHub**.
+* I am passionate about **Software Engineering, Artificial Intelligence, Machine Learning, NLP, and Web Development**.
 * I have built projects like **TradeNest, AutoTagging Tool, and HopeDose AI Health Assistant**.
+* I enjoy creating clean, scalable, and recruiter-friendly software projects.
 * I am currently learning **System Design, Microservices, Cloud, and Advanced Backend Engineering**.
-* Ask me about **Java, Spring Boot, Python, React, SQL, Machine Learning, NLP, Git, and Power BI**.
+* Ask me about **Java, Spring Boot, Python, React, SQL, Machine Learning, NLP, Git, Power BI, and Software Development**.
 * Reach me at **[muskanjha92002@gmail.com](mailto:muskanjha92002@gmail.com)**.
 
 </td>
-<td width="40%">
+<td width="50%">
 
-<img src="https://i.pinimg.com/originals/92/5e/61/925e619b54d227dc5010d36900d8d531.gif" width="100%" alt="Coding Girl"/>
+<img src="./Assets/muskan.gif" width="100%" alt="Muskan Developer GIF"/>
 
 </td>
 </tr>
@@ -79,6 +78,7 @@
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-2563EB?style=for-the-badge"/>
 
 </div>
 
@@ -99,7 +99,9 @@
 <img src="https://img.shields.io/badge/MONGODB-16A34A?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/DOCKER-0284C7?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-F97316?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/LINUX-FACC15?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTMAN-F97316?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWER%20BI-FACC15?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
 
@@ -111,9 +113,11 @@
 <tr>
 <td width="33%">
 
-### TradeNest
+<h3 align="center">TradeNest</h3>
 
+<p align="center">
 Enterprise-grade file management and automation platform.
+</p>
 
 **Highlights**
 
@@ -122,14 +126,18 @@ Enterprise-grade file management and automation platform.
 * Manual effort reduction
 * Version-controlled structure
 
-**Tech:** Python, Git, File I/O
+**Tech Stack**
+
+`Python` `Git` `File I/O` `Automation`
 
 </td>
 <td width="33%">
 
-### AutoTagging Tool
+<h3 align="center">AutoTagging Tool</h3>
 
+<p align="center">
 ML and NLP-based automatic tag generation system.
+</p>
 
 **Highlights**
 
@@ -138,14 +146,18 @@ ML and NLP-based automatic tag generation system.
 * Tag classification
 * Text analysis
 
-**Tech:** Python, Scikit-learn, Pandas, NLP
+**Tech Stack**
+
+`Python` `Scikit-learn` `Pandas` `NLP`
 
 </td>
 <td width="33%">
 
-### HopeDose
+<h3 align="center">HopeDose</h3>
 
+<p align="center">
 AI-powered health assistant for reminders and wellness support.
+</p>
 
 **Highlights**
 
@@ -154,7 +166,9 @@ AI-powered health assistant for reminders and wellness support.
 * Responsive interface
 * Personalized insights
 
-**Tech:** Python, NLP, HTML, CSS, JavaScript
+**Tech Stack**
+
+`Python` `NLP` `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
@@ -190,6 +204,10 @@ AI-powered health assistant for reminders and wellness support.
 
 <div align="center">
 
+<a href="https://github.com/paranoid-us">
+<img src="https://img.shields.io/badge/GITHUB-paranoid--us-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="#">
 <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -204,8 +222,8 @@ AI-powered health assistant for reminders and wellness support.
 
 <br><br>
 
-### ⭐ Building scalable systems, intelligent applications, and real-world software solutions.
+### Building scalable systems, intelligent applications, and real-world software solutions.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0D1117&height=130&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=120&section=footer"/>

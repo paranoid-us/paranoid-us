@@ -55,7 +55,7 @@
 </td>
 <td width="45%">
 
-<img src="computer.gif" width="100%" alt="Developer Coding GIF"/>
+<img src="Assets/computer.gif" width="100%" alt="Developer Coding GIF"/>
 
 </td>
 </tr>
@@ -175,13 +175,6 @@ AI-powered health assistant for reminders and wellness support.
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranoid-us&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranoid-us&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## Connect
 

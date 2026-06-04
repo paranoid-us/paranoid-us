@@ -2,33 +2,35 @@
 
 # 👋 Hi, I'm Muskan Jha
 
-### Software Engineer • Java Full Stack Developer • AI & ML Enthusiast
+### Software Engineer • Java Full Stack Developer • AI & Machine Learning Enthusiast
 
 ### Building Intelligent Applications, Scalable Systems & AI-Powered Solutions
 
-<p align="center">
-  <a href="mailto:muskanjha92002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/muskanjha92002">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<img src="./Assets/musakn.gif" width="100%" alt="Developer Animation"/>
+<img src="./Assets/muskan.gif" width="100%" alt="Muskan Hero GIF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Solutions;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MCA+Student+%7C+Mphasis+Intern;Building+Scalable+Software+Solutions;Always+Learning+New+Technologies"/>
+
+<br><br>
+
+<a href="mailto:muskanjha92002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/paranoid-us">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=paranoid-us&style=for-the-badge"/>
 
 </div>
 
@@ -47,19 +49,20 @@ Education:
 Current Role:
   Java Full Stack Developer Intern @ Mphasis
 
-Interests:
+Areas of Interest:
   - Software Engineering
   - Artificial Intelligence
   - Machine Learning
   - NLP
   - Full Stack Development
   - Data Analytics
+  - System Design
 
 Currently Learning:
-  - System Design
-  - Microservices
+  - Microservices Architecture
   - Cloud Technologies
-  - Advanced Backend Engineering
+  - AI Engineering
+  - Advanced Backend Development
 
 Open To:
   - Software Engineering Roles
@@ -70,12 +73,28 @@ Open To:
 
 ---
 
-# 💻 Tech Stack
+## 💼 What I'm Working On
 
-## Programming Languages
+🔹 Building scalable backend systems using Java & Spring Boot
+
+🔹 Developing AI-powered applications using NLP and Machine Learning
+
+🔹 Strengthening Data Engineering and Database concepts
+
+🔹 Exploring System Design and Software Architecture
+
+🔹 Creating production-ready full-stack applications
+
+🔹 Continuously learning modern development practices
+
+---
+
+# 🛠️ Tech Arsenal
+
+## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
 </p>
 
 ---
@@ -83,7 +102,7 @@ Open To:
 ## Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ---
@@ -91,26 +110,28 @@ Open To:
 ## Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
 </p>
 
 ---
 
-## AI / ML & Data Science
+## AI / Machine Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Computer_Vision-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
@@ -119,7 +140,7 @@ Open To:
 ## Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
@@ -127,7 +148,7 @@ Open To:
 ## Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
 
 ---
@@ -136,18 +157,21 @@ Open To:
 
 ## 📂 TradeNest
 
-Enterprise-grade file management and automation platform designed to streamline file organization and categorization workflows.
+Enterprise-grade file management and automation platform designed to streamline file organization, categorization, and workflow management.
 
-### Key Features
+### Highlights
 
-* Automated file categorization
-* Intelligent file organization
-* Version-controlled workflow
-* Reduced manual effort by 40%
+✨ Automated file categorization
+
+✨ Intelligent file organization
+
+✨ Version-controlled architecture
+
+✨ Reduced manual effort by 40%
 
 **Tech Stack**
 
-`Python` • `Git` • `File I/O` • `Automation`
+`Python` • `Git` • `Automation` • `File Management`
 
 ---
 
@@ -155,16 +179,19 @@ Enterprise-grade file management and automation platform designed to streamline 
 
 Machine Learning-based text analysis platform that automatically generates tags from unstructured textual content using NLP techniques.
 
-### Key Features
+### Highlights
 
-* Automatic keyword extraction
-* TF-IDF based classification
-* Intelligent tag generation
-* Reduced manual tagging effort
+✨ TF-IDF based keyword extraction
+
+✨ Intelligent tag generation
+
+✨ Automated classification
+
+✨ Reduced manual tagging effort
 
 **Tech Stack**
 
-`Python` • `Scikit-Learn` • `NLP` • `Pandas`
+`Python` • `Scikit-Learn` • `Pandas` • `NLP`
 
 ---
 
@@ -172,16 +199,19 @@ Machine Learning-based text analysis platform that automatically generates tags 
 
 AI-powered healthcare assistant delivering personalized medication reminders and wellness recommendations.
 
-### Key Features
+### Highlights
 
-* NLP-powered assistant
-* Intent classification
-* Personalized responses
-* Responsive web interface
+✨ NLP-powered conversations
+
+✨ Intent classification
+
+✨ Personalized recommendations
+
+✨ Responsive web application
 
 **Tech Stack**
 
-`Python` • `NLP` • `HTML` • `CSS` • `JavaScript`
+`Python` • `HTML` • `CSS` • `JavaScript` • `NLP`
 
 ---
 
@@ -189,17 +219,9 @@ AI-powered healthcare assistant delivering personalized medication reminders and
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muskanjha92002&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranoid-us&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjha92002&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanjha92002&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranoid-us&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -207,7 +229,15 @@ AI-powered healthcare assistant delivering personalized medication reminders and
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muskanjha92002&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paranoid-us&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=paranoid-us&theme=tokyonight&no-frame=true&column=7"/>
 
 </div>
 
@@ -217,7 +247,7 @@ AI-powered healthcare assistant delivering personalized medication reminders and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanjha92002&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paranoid-us&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -225,15 +255,33 @@ AI-powered healthcare assistant delivering personalized medication reminders and
 
 # 💬 Ask Me About
 
-* Java & Spring Boot
-* Python Development
-* Machine Learning & NLP
-* React Development
-* REST APIs
-* Database Design
-* Data Analytics & Power BI
-* Software Engineering
-* Git & GitHub
+```text
+Java & Spring Boot
+Python Development
+Machine Learning
+Natural Language Processing
+React Development
+REST APIs
+Database Design
+Git & GitHub
+Data Analytics
+Power BI
+Software Engineering
+```
+
+---
+
+# 🏆 Achievements
+
+🥇 Java Full Stack Developer Intern @ Mphasis
+
+🚀 Built AI-powered projects involving NLP & Machine Learning
+
+🏆 Developed multiple end-to-end software applications
+
+💡 Passionate about solving real-world problems using technology
+
+📚 Continuous learner with strong analytical thinking
 
 ---
 
@@ -257,32 +305,20 @@ AI-powered healthcare assistant delivering personalized medication reminders and
 
 ---
 
-# 🏆 Achievements
-
-🥇 Java Full Stack Developer Intern at Mphasis
-
-🏆 Built AI-powered projects involving NLP and Machine Learning
-
-🚀 Developed multiple end-to-end software projects
-
-🎯 Active learner in AI, Software Engineering, and Modern Web Development
-
----
-
 # 🤝 Let's Connect
 
 <div align="center">
 
-### Open for Collaborations, Internships & Software Engineering Opportunities
+### Open for Collaborations • Internships • Full-Time Opportunities
 
-<p>
 <a href="mailto:muskanjha92002@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=muskanjha92002&style=for-the-badge"/>
+<br><br>
 
 ### ⭐ Turning Ideas Into Impactful Software Solutions
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
 
 </div>

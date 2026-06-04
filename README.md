@@ -1,324 +1,211 @@
 <div align="center">
 
-# 👋 Hi, I'm Muskan Jha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=120&section=header"/>
 
-### Software Engineer • Java Full Stack Developer • AI & Machine Learning Enthusiast
+# Hi, I'm Muskan Jha
 
-### Building Intelligent Applications, Scalable Systems & AI-Powered Solutions
+### Java Full Stack Developer | AI/ML Enthusiast | Software Engineer
 
-<img src="./Assets/muskan.gif" width="100%" alt="Muskan Hero GIF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;NLP+%7C+React+%7C+Spring+Boot+%7C+Python;Turning+Ideas+Into+Real+Projects"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MCA+Student+%7C+Mphasis+Intern;Building+Scalable+Software+Solutions;Always+Learning+New+Technologies"/>
+<img src="https://komarev.com/ghpvc/?username=paranoid-us&label=PROFILE+VIEWS&style=for-the-badge&color=2563eb"/>
+<img src="https://img.shields.io/badge/FOCUS-JAVA%20FULL%20STACK-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-INDIA-f97316?style=for-the-badge"/>
 
 <br><br>
 
-<a href="mailto:muskanjha92002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p>
 <a href="https://github.com/paranoid-us">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-paranoid--us-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="mailto:muskanjha92002@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=paranoid-us&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Muskan Jha
-
-Education:
-  Degree: Master of Computer Applications (MCA)
-  Institution: Chandigarh Group of Colleges
-  CGPA: 8.4
-
-Current Role:
-  Java Full Stack Developer Intern @ Mphasis
-
-Areas of Interest:
-  - Software Engineering
-  - Artificial Intelligence
-  - Machine Learning
-  - NLP
-  - Full Stack Development
-  - Data Analytics
-  - System Design
-
-Currently Learning:
-  - Microservices Architecture
-  - Cloud Technologies
-  - AI Engineering
-  - Advanced Backend Development
-
-Open To:
-  - Software Engineering Roles
-  - Full Stack Development Opportunities
-  - AI/ML Projects
-  - Open Source Contributions
-```
-
----
-
-## 💼 What I'm Working On
-
-🔹 Building scalable backend systems using Java & Spring Boot
-
-🔹 Developing AI-powered applications using NLP and Machine Learning
-
-🔹 Strengthening Data Engineering and Database concepts
-
-🔹 Exploring System Design and Software Architecture
-
-🔹 Creating production-ready full-stack applications
-
-🔹 Continuously learning modern development practices
-
----
-
-# 🛠️ Tech Arsenal
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
 </p>
-
----
-
-## Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
-
----
-
-## Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
-</p>
-
----
-
-## AI / Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
-
----
-
-## Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
-
-## Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 📂 TradeNest
-
-Enterprise-grade file management and automation platform designed to streamline file organization, categorization, and workflow management.
-
-### Highlights
-
-✨ Automated file categorization
-
-✨ Intelligent file organization
-
-✨ Version-controlled architecture
-
-✨ Reduced manual effort by 40%
-
-**Tech Stack**
-
-`Python` • `Git` • `Automation` • `File Management`
-
----
-
-## 🏷️ AutoTagging Tool
-
-Machine Learning-based text analysis platform that automatically generates tags from unstructured textual content using NLP techniques.
-
-### Highlights
-
-✨ TF-IDF based keyword extraction
-
-✨ Intelligent tag generation
-
-✨ Automated classification
-
-✨ Reduced manual tagging effort
-
-**Tech Stack**
-
-`Python` • `Scikit-Learn` • `Pandas` • `NLP`
-
----
-
-## 🩺 HopeDose
-
-AI-powered healthcare assistant delivering personalized medication reminders and wellness recommendations.
-
-### Highlights
-
-✨ NLP-powered conversations
-
-✨ Intent classification
-
-✨ Personalized recommendations
-
-✨ Responsive web application
-
-**Tech Stack**
-
-`Python` • `HTML` • `CSS` • `JavaScript` • `NLP`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranoid-us&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranoid-us&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paranoid-us&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=paranoid-us&theme=tokyonight&no-frame=true&column=7"/>
+<img src="./Assets/muskan.gif" width="85%" alt="Muskan Superhero Developer GIF"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## About Me
+
+<table>
+<tr>
+<td width="60%">
+
+* I am a **Java Full Stack Developer Intern at Mphasis**.
+* I build backend-focused systems with **Java, Spring Boot, Python, SQL, React, Docker, Git, and GitHub**.
+* I work on **AI/ML, NLP, Machine Learning, Data Analytics, and Web Development**.
+* I have built projects like **TradeNest, AutoTagging Tool, and HopeDose AI Health Assistant**.
+* I am currently learning **System Design, Microservices, Cloud, and Advanced Backend Engineering**.
+* Ask me about **Java, Spring Boot, Python, React, SQL, Machine Learning, NLP, Git, and Power BI**.
+* Reach me at **[muskanjha92002@gmail.com](mailto:muskanjha92002@gmail.com)**.
+
+</td>
+<td width="40%">
+
+<img src="https://i.pinimg.com/originals/92/5e/61/925e619b54d227dc5010d36900d8d531.gif" width="100%" alt="Coding Girl"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Top Skills
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paranoid-us&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,js,html,css,mysql,mongodb,docker,git,github,vscode,postman"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
 
 ---
 
-# 💬 Ask Me About
-
-```text
-Java & Spring Boot
-Python Development
-Machine Learning
-Natural Language Processing
-React Development
-REST APIs
-Database Design
-Git & GitHub
-Data Analytics
-Power BI
-Software Engineering
-```
-
----
-
-# 🏆 Achievements
-
-🥇 Java Full Stack Developer Intern @ Mphasis
-
-🚀 Built AI-powered projects involving NLP & Machine Learning
-
-🏆 Developed multiple end-to-end software applications
-
-💡 Passionate about solving real-world problems using technology
-
-📚 Continuous learner with strong analytical thinking
-
----
-
-# 🎯 2026 Goals
-
-✅ Secure a Software Engineer Role
-
-✅ Master Backend Architecture
-
-✅ Become Proficient in System Design
-
-✅ Build Production-Grade AI Applications
-
-✅ Strengthen Cloud & DevOps Skills
-
-✅ Contribute to Open Source
-
-✅ Publish High-Quality Technical Projects
-
-✅ Continue Learning & Growing Every Day
-
----
-
-# 🤝 Let's Connect
+## Tech Stack
 
 <div align="center">
 
-### Open for Collaborations • Internships • Full-Time Opportunities
+<img src="https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-16A34A?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-FACC15?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/REACT-0891B2?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-16A34A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-0284C7?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-F97316?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINUX-FACC15?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### TradeNest
+
+Enterprise-grade file management and automation platform.
+
+**Highlights**
+
+* File organization
+* Workflow automation
+* Manual effort reduction
+* Version-controlled structure
+
+**Tech:** Python, Git, File I/O
+
+</td>
+<td width="33%">
+
+### AutoTagging Tool
+
+ML and NLP-based automatic tag generation system.
+
+**Highlights**
+
+* TF-IDF keyword extraction
+* NLP preprocessing
+* Tag classification
+* Text analysis
+
+**Tech:** Python, Scikit-learn, Pandas, NLP
+
+</td>
+<td width="33%">
+
+### HopeDose
+
+AI-powered health assistant for reminders and wellness support.
+
+**Highlights**
+
+* NLP chatbot flow
+* Intent classification
+* Responsive interface
+* Personalized insights
+
+**Tech:** Python, NLP, HTML, CSS, JavaScript
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=paranoid-us&theme=algolia&no-frame=true&no-bg=true&margin-w=12"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranoid-us&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranoid-us&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paranoid-us&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paranoid-us&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF"/>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW%20ME-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <a href="mailto:muskanjha92002@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-### ⭐ Turning Ideas Into Impactful Software Solutions
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
+### ⭐ Building scalable systems, intelligent applications, and real-world software solutions.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=120&section=footer"/>
